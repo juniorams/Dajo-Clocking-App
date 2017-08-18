@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<merger version="3"><dataSet config="main"><source path="C:\Users\Christoph\Documents\GitHub\JQueryMobileApp\platforms\android\CordovaLib\assets"/><source path="C:\Users\Christoph\Documents\GitHub\JQueryMobileApp\platforms\android\CordovaLib\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Christoph\Documents\GitHub\JQueryMobileApp\platforms\android\CordovaLib\src\debug\assets"/></dataSet></merger>
-=======
-<merger version="3"><dataSet config="main"><source path="C:\Users\Patrick\Documents\GitHub\Dajo-Clocking-App\platforms\android\CordovaLib\assets"/><source path="C:\Users\Patrick\Documents\GitHub\Dajo-Clocking-App\platforms\android\CordovaLib\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Patrick\Documents\GitHub\Dajo-Clocking-App\platforms\android\CordovaLib\src\debug\assets"/></dataSet></merger>
->>>>>>> 54120b154ccd496d430dc7a577f139db98d5f930
+<merger version="3"><dataSet config="main"><source path="C:\Users\Dajo1\Documents\Dajo-Clocking-App\platforms\android\CordovaLib\assets"/><source path="C:\Users\Dajo1\Documents\Dajo-Clocking-App\platforms\android\CordovaLib\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Dajo1\Documents\Dajo-Clocking-App\platforms\android\CordovaLib\src\debug\assets"/></dataSet></merger>
